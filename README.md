@@ -5,8 +5,8 @@ Student Name: Kamala Ramesh
  
 Course: CS 5720 (CRN 23216)
 
-Description: This assignment consists of program snippets that performs basic functions and arithmetic operations using python programming.
- 
+Description: This assignment consists of program snippets that performs Naive Bayes and Linear SVM methods using scikit-learn library.
+
 For more details, please find the below the required links,
  
 Google Drive link for program file (Notebook):
